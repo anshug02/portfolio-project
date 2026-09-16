@@ -139,7 +139,7 @@ const PROJECTS = [
     features: ["Smooth Animations", "Interactive Scrolling", "Responsive", "Modern UI"],
     accent: "from-[#8B5CF6] via-[#06B6D4] to-[#3B82F6]",
     github: "https://github.com/anshug02",
-    demo: "https://hemantgoyal000.github.io/Obys-Clone/",
+    demo: "https://portfolio-project-lilac-phi.vercel.app/",
     image: portfolio,
   },
 ];
