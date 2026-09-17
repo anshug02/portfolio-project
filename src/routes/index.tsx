@@ -41,7 +41,7 @@ import portfolio from "@/assets/portfolio.png";
 const SOCIALS = {
   github: "https://gitlab.com/guptaanshikaa05",
   linkedin: "https://www.linkedin.com/in/anshika-gupta-94956230a/",
-  email: "mailto:guptaanshikaa05@gmail.com",
+  email: "https://mail.google.com/mail/?view=cm&fs=1&to=guptaanshika05@gmail.com",
 } as const;
 
 const EXT = { target: "_blank", rel: "noopener noreferrer" } as const;
@@ -128,8 +128,8 @@ const PROJECTS = [
     ],
     accent: "from-[#3B82F6] via-[#8B5CF6] to-[#06B6D4]",
     github: "https://github.com/anshug02",
-    demo: "https://appointment-booking-system-kappa.vercel.app/",
-    image:boothmgt
+    demo: "",
+    image: boothmgt,
   },
   {
     title: "Portfolio- Project",
