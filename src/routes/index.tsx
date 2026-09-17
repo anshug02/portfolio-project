@@ -41,7 +41,7 @@ import portfolio from "@/assets/portfolio.png";
 const SOCIALS = {
   github: "https://gitlab.com/guptaanshikaa05",
   linkedin: "https://www.linkedin.com/in/anshika-gupta-94956230a/",
-  email: "https://mail.google.com/mail/?view=cm&fs=1&to=guptaanshika05@gmail.com",
+  email: "https://mail.google.com/mail/?view=cm&fs=1&to=guptaanshikaa05@gmail.com",
 } as const;
 
 const EXT = { target: "_blank", rel: "noopener noreferrer" } as const;
